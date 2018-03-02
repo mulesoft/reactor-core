@@ -80,7 +80,7 @@ configure(subprojects) { p ->
   apply plugin: 'osgi'
 
   description = 'Non-Blocking Reactive Foundation for the JVM'
-  group = 'io.projectreactor'
+  group = 'org.mule.projectreactor'
 
   ext {
 	//set up special version per sub-project
